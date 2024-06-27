@@ -10,6 +10,9 @@ https://github.com/kshinde6804/ZooTraversalShareable
 Calculator for pool chemistry applications:
 https://github.com/kshinde6804/PKACalculatorShareable
 
+Customizable caching simulator:
+https://github.com/kshinde6804/CacheSimulator
+
 Complete banking simulator, including log-in/log-off capabilities and order scheduling:
 https://github.com/kshinde6804/BankerShareable
 
