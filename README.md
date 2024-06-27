@@ -13,6 +13,9 @@ https://github.com/kshinde6804/PKACalculatorShareable
 Customizable caching simulator:
 https://github.com/kshinde6804/CacheSimulator
 
+LC2K Instruction Pipeline Simulator:
+https://github.com/kshinde6804/PipelineSimulator
+
 Complete banking simulator, including log-in/log-off capabilities and order scheduling:
 https://github.com/kshinde6804/BankerShareable
 
