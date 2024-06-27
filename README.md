@@ -2,7 +2,7 @@
 
 A collection of all of my past projects
 
-For access to any project, please email me at kshinde6804@gmail.com and I can add you as a contributor. Most projects are private for now due to sensitive information and university honor-code policies.
+For access to any project, please email me at kshinde6804@gmail.com and I can add you as a contributor. Most projects are private for now due to sensitive information and/or university honor-code policies.
 
 ### Automate creation and posting of Reddit storytime videos:
 https://github.com/kshinde6804/RedditToTiktokShareable
