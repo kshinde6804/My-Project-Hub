@@ -8,7 +8,7 @@ For access to any project, please email me at kshinde6804@gmail.com and I can ad
 https://github.com/kshinde6804/RedditToTiktokShareable
 
 ### Workout Tracker Website:
-https://github.com/kshinde6804/workout-tracker
+https://github.com/kshinde6804/Workout-Tracker-Website
 
 ### Use path finding algorithms to traverse a simulated zoo:
 https://github.com/kshinde6804/ZooTraversalShareable
